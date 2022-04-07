@@ -1,0 +1,12 @@
+.transaction-container-debit{
+    background-color: aliceblue;
+    padding: 7px;
+    margin-top: 15px;
+    border-radius: 15px;
+    border: 1px solid red;
+    box-shadow: 0px 0px 5px rgb(0,0,0,0.5);
+
+}
+.text-debit-amount{
+    color: red;
+}
